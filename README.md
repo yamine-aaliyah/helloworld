@@ -1,4 +1,4 @@
-# hello-world
+# Hello World!
 Hello World respository for Git tutorial. 
 This is an example repository for Git Tutorial on https://www.ww3schools.com
 
